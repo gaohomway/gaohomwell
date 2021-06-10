@@ -52,19 +52,19 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/gaohomwell">
     <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/gaohomwell">
     <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
+  <a href="https://github.com/gaohomwell?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
+  <a href="https://github.com/gaohomwell">
     <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/gaohomwell">
     <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
   </a>
 </p>
