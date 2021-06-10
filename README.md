@@ -1,6 +1,6 @@
 <img align="left" alt="GIF" src="https://image.feicdn.cn/logo/app-icon-logo.svg" width="130" title="FlyWind"> 
 <h1>高宏伟</h1>
-<b>飞风创始人 董事长兼首席执行官，现全面负责飞风的整体运营工作。<b/>
+<p>飞风创始人 董事长兼首席执行官，现全面负责飞风的整体运营工作。<p/>
 <br>
 <br>
 <h2>产品经验</h2>  
@@ -11,7 +11,7 @@
 可以很好的协调各部门资源，推进产品进度和发展，对产品进度和质量负责，对预期和结果负责。</p>
 
 <h2>技术经验</h2>
-<p>技术出身，有六年的技术开发经验，拥有良好的编程和架构经验，一直保持对新技术的学习。所涉猎的技术有 Java EE 企业版开发、移动端的 Android 和 IOS 开发，WEB 开发等。熟练使用 Java、Kotlin、Swift、HTML 和 JavaScript 等开发语言。熟练使用 MySQL、SQL Server 和 MongoDB 等数据库。熟练使用 Node.js 和 React.js 等开发框架。熟悉Linux 系统操作。</p>
+<p>技术出身，有六年的技术开发经验，拥有良好的编程和架构经验，一直保持对新技术的学习。所涉猎的技术有 Java EE 企业版开发、移动端的 Android 和 iOS 开发，WEB 开发等。熟练使用 Java、Kotlin、Swift、HTML 和 JavaScript 等开发语言。熟练使用 MySQL、SQL Server 和 MongoDB 等数据库。熟练使用 Node.js 和 React.js 等开发框架。熟悉Linux 系统操作。</p>
 
 <h2>目前近况</h2>
 <ul>
